@@ -1,2 +1,2 @@
-# Electronic-Phone
-An implementation using ESPIdf with microphone and speaker for a party messages phone
+# Wedding golden messages Phone
+An implementation using ESP-IDF with microphone and speaker for a party golden messages phone
